@@ -18,7 +18,9 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*20)+ 1);var xxx=null;
+{var encryptedUrl=Base64.encode(a_to_vi);
+var x=Math.floor((Math.random()*20)+ 1);
+var xxx=null;
 if(x=="1"){xxx="/2017/08/6-best-android-camera-smartphone.html"}
 if(x=="2"){xxx="/2017/08/6-best-android-camera-smartphone.html"}
 if(x=="3"){xxx="/2017/08/6-best-android-camera-smartphone.html"}
